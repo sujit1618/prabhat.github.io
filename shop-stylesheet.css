@@ -7,6 +7,11 @@ b {
     font-weight: 600;
 }
 
+@font-face {
+    font-family: opulent;
+    src: url(./opn.ttf);
+  }
+
 
 h2,
 h3,
@@ -17,10 +22,13 @@ p {
 }
 
 h1 {
+    /* font-family: ibm-plex-sans, sans-serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: opulent;
     line-height: 130%;
     padding: 0;
     margin: 0;
-    font-size: 36px;
+    font-size: 32px;
     font-weight: 600;
 }
 
@@ -29,7 +37,8 @@ div {
 }
 
 h2 {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: opulent;
     font-size: 22px;
     line-height: 130%;
     font-weight: 400;
@@ -42,7 +51,8 @@ h3 {
 }
 
 p {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: opulent;
     font-weight: 400;
     font-size: 15px;
 }
@@ -65,7 +75,8 @@ p {
 
 body {
     animation: 800ms cubic-bezier(0.445, 0.05, 0.55, 0.95) slow-appear;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: opulent;
     font-weight: 400;
     font-style: normal;
     padding: 0px;
@@ -101,17 +112,35 @@ body {
 }
 
 .name-container img {
-    height: 70px;
+    display: block;
     padding: 0 0 0 12px;
-    margin: 0 15px 0 0;
+    margin: 0 15px 12px 0;
+}
+
+#prabhatname{
+    height: 60px;
+}
+
+.name-separator{
+    height: 54px;
+    background-color: rgb(32, 32, 32);
+    width: 1px;
+    margin: 4px 0 0 0;
+}
+
+#unitedname{
+    margin: 8px 0 0 12px;
+    height: 40px;
 }
 
 .top-contact-container {
     padding: 22px 12px 22px 0;
+    font-family: opulent;
 }
 
 .top-phone-number {
     color: #0066B3;
+    font-family: opulent;
 }
 
 .links-container a {
@@ -150,13 +179,15 @@ body {
 
 .button-1 {
     display: block;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: ibm-plex-sans, sans-serif;
     outline: none;
     background-color: #161a1f;
+    background-color: #32213A;
     border: none;
-    font-size: 15px;
+    font-size: 13px;
+    text-transform: uppercase;
     color: white;
-    font-weight: 600;
+    font-weight: 400;
     padding: 10px 30px 12px 30px;
     transition: cubic-bezier(0.165, 0.84, 0.44, 1) 240ms;
     width: fit-content;
@@ -166,7 +197,7 @@ body {
     transform: scale(1.05, 1.05);
     /* box-shadow: 0px 0px 52px rgba(17, 24, 7, 0.795); */
     /* box-shadow: 0px 0px 52px #f0c56f79; */
-    outline: solid #ffffff 2px;
+    /* outline: solid #ffffff 2px; */
 }
 
 .button-1:active,
@@ -179,34 +210,116 @@ body {
     /* background-color: blue; */
 }
 
-.calendar-option{
-    width: 310px;
-    background-color: rgb(255, 255, 255);
-    padding: 24px;
-    box-shadow: 0px 3px 12px #bdbdbd;
-    border-radius: 8px;
+.banner-container{
+    background-image: url(./images/sunrise-bg-1.jpg);
+    background-attachment: fixed;
+    height: 480px;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 6fr 10fr;
+    grid-template-rows: auto;
+    padding: 20px;
+    box-shadow: inset 0px 3px 12px rgb(32, 32, 32,0.2);
 }
+
+.cta-container{
+    margin-top: 12px;
+    grid-column: 2 / span 1;
+    grid-row: 1 / span 1;
+    max-height: 407px;
+    background-color: #ffffff6c;
+    backdrop-filter: blur(5px);
+    padding: 24px 36px;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    
+    /* display: grid; */
+    /* grid-template-columns: 1fr 3fr; */
+    /* grid-template-rows: auto; */
+}
+
+.promotion-img img{
+    height: 390px;
+    margin: 8px auto;
+    padding: 0 36px 0 0;
+}
+
+
+.promotional-text{
+    padding: 12px 0 0 0;
+    height: 390px;
+}
+
+.shop-container{
+    margin: 48px auto 0 auto;
+    /* display: grid; */
+    padding: 48px;
+    /* grid-template-columns: 1fr 4fr; */
+    /* grid-template-rows: auto */
+}
+
+/* .filter-column{ */
+    /* grid-column: 1 / span 1; */
+    /* margin: 0 auto; */
+/* } */
+
+.shop-area{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: auto;
+    column-gap: 33px;
+    row-gap: 72px;
+}
+
+.calendar-option{
+    margin: 0 auto;
+    width: 310px;
+    background-color: rgba(164, 219, 255, 0);
+    /* padding: 24px; */
+    /* box-shadow: 0px 3px 12px #bdbdbd; */
+    /* border-radius: 8px; */
+}
+
+.cal-img-container{
+    background-color: rgb(236, 236, 236);
+    /* background-image: url(./images/paperbg.jpg); */
+    /* background-attachment: fixed; */
+    height: 392px;
+    margin-bottom: 12px;
+    /* box-shadow: inset 0px 3px 12px rgb(32, 32, 32,0.2); */
+}
+
 .cal-img{
     display: block;
-    width: 200px;
-    margin: 0 auto 12px auto;
-
+    height: 100%;
+    margin: 0 auto 0 auto;
+    
 }
 
 .calendar-name{
     margin-bottom: 0px;
     font-weight: 700;
+    font-size: 18px;
 }
 
 .calendar-details{
     margin-bottom: 9px;
 }
 
+/* .calendar-price-container{ */
+    /* display: grid; */
+    /* grid-template-columns: auto min 135px; */
+    /* grid-template-rows: auto auto; */
+    /* margin-bottom: 18px; */
+/* } */
 .calendar-price-container{
-    display: grid;
-    grid-template-columns: auto min 135px;
-    /* column-gap: 12px; */
-    grid-template-rows: auto auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-bottom: 18px;
 }
 .starts-from{
@@ -215,7 +328,165 @@ body {
     font-weight: 700;
 }
 
+.price{
+    font-size: 18px;
+}
+
 .qty{
     font-size: 12px;
     font-style: italic;
+}
+
+.to{
+    /* height: 1px; */
+    /* background-color: #000; */
+    width: 14px;
+    padding-bottom: 12px;
+}
+
+.calendar-option .button-1{
+    margin: 0;
+}
+
+/* ----------------------------------- */
+
+.contact-footer {
+    margin: 48px auto 0 auto;
+    background-image: url(./images/sunrise-bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.contact-wrapper {
+    width: 88%;
+    max-width: 1269px;
+    margin: 0 auto;
+    padding: 100px 24px;
+}
+
+.main-grid {
+    display: grid;
+    grid-template-columns: auto 150px;
+    grid-template-rows: auto;
+}
+
+.head-grid {
+    display: grid;
+    grid-template-columns: 150px auto;
+    grid-template-rows: auto;
+    column-gap: 22px;
+}
+
+.logo img {
+    height: 122px;
+}
+
+.text-grid {
+    padding: 10px 0 0 0;
+    display: grid;
+    grid-template-columns: 300px auto auto auto;
+    grid-template-rows: auto auto auto;
+    row-gap: 24px;
+}
+
+.text-grid h1 {
+    display: block;
+    grid-column: 1 / span 4;
+    grid-row: 1 / span 1;
+}
+
+.email-container {
+    display: flex;
+    align-items: center;
+    grid-column: 1 / span 1;
+    grid-row: 2 / span 1;
+}
+
+.email-container img {
+    display: block;
+    padding: 0 8px 0 0;
+    height: 24px;
+}
+
+.email-container a {
+    display: block;
+    font-size: 18px;
+}
+
+
+.landline-container {
+    display: flex;
+    align-items: center;
+    grid-column: 2 / span 1;
+    grid-row: 2 / span 1;
+}
+
+.landline-container img {
+    display: block;
+    padding: 0 8px 0 0;
+    height: 24px;
+}
+
+.landline-container a {
+    display: block;
+    font-size: 18px;
+}
+
+
+.mobile-container {
+    display: flex;
+    align-items: center;
+    grid-column: 3 / span 1;
+    grid-row: 2 / span 1;
+}
+
+.mobile-container img {
+    display: block;
+    padding: 0 8px 0 0;
+    height: 24px;
+}
+
+.mobile-container a {
+    display: block;
+    font-size: 18px;
+}
+
+
+.address-container {
+    display: flex;
+    align-items: center;
+    grid-column: 1 / span 3;
+    grid-row: 3 / span 1;
+}
+
+.address-container img {
+    display: block;
+    padding: 0 8px 0 0;
+    height: 24px;
+}
+
+.address-container a {
+    display: block;
+    font-size: 18px;
+}
+
+.main-grid .buttons-container {
+    margin: auto auto;
+}
+
+
+.footer {
+    background-color: #fff;
+    padding: 15px 0 15px 0;
+    font-size: 13px;
+    color: #000;
+    /* box-shadow: inset 0 0 15px #bbb; */
+}
+
+.footer-wrapper {
+    min-width: 900px;
+    width: 70%;
+    max-width: 1040px;
+    margin: 0 auto 0 auto;
+    text-align: center;
 }
