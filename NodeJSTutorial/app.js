@@ -1,4 +1,5 @@
 // imports
+const http = require("http");
 const express = require('express');
 const app = express ();
 const port = 3000;
@@ -21,31 +22,28 @@ app.get('/about',(req,res) => {
     res.render('about', {text: 'This is EJS too'});
 })
 
-
-
-
-
-//listen on port 3000
-app.listen(port,() => console.info('Listening on port '+port));
+//listen in on port 3000
+// app.listen(port,() => console.info('Listening on port '+port));
 
 //razorpay instance
+const Razorpay = require('razorpay');
 var instance = new Razorpay({
     key_id: 'rzp_test_rZxLZHEKkJ7BWZ',
     key_secret: 'af8ajaYQLBkRqq9up3UxCtTt',
   });
 
 //razorpay order create
-const Razorpay = require('razorpay');
+
 var instance = new Razorpay({ key_id: 'rzp_test_rZxLZHEKkJ7BWZ', key_secret: 'af8ajaYQLBkRqq9up3UxCtTt' })
 
 var options = {
-  amount: req.body.amount,  // amount in the smallest currency unit
+  amount: "1000",  // amount in the smallest currency unit
   currency: "INR",
   receipt: "order_rcptid_11"
 };
 instance.orders.create(options, function(err, order) {
   console.log(order);
-  res.send({orderId:order.id});
+//   res.send({orderId:order.id});
 });
 
 //verifying order signatures

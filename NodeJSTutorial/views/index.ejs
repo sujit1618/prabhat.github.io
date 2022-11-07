@@ -67,7 +67,9 @@
                         },
                         "data": JSON.stringify({response}),
                     }
-
+                    $.ajax(settings).done(function(response){
+                        alert(JSON.stringify(response));
+                    });
                 },
                 "theme": {
                     "color": "#b6f766"
