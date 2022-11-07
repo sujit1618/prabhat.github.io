@@ -24,7 +24,7 @@ p {
 h1 {
     /* font-family: ibm-plex-sans, sans-serif; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-family: opulent;
+    /* font-family: opulent; */
     line-height: 130%;
     padding: 0;
     margin: 0;
@@ -37,7 +37,8 @@ div {
 }
 
 h2 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    /* font-family: noto-sans, sans-serif; */
     font-family: opulent;
     font-size: 22px;
     line-height: 130%;
@@ -52,7 +53,7 @@ h3 {
 
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-family: opulent;
+    font-family: noto-sans, sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
@@ -75,7 +76,8 @@ p {
 
 body {
     animation: 800ms cubic-bezier(0.445, 0.05, 0.55, 0.95) slow-appear;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    /* font-family: noto-sans, sans-serif; */
     font-family: opulent;
     font-weight: 400;
     font-style: normal;
@@ -179,7 +181,7 @@ body {
 
 .button-1 {
     display: block;
-    font-family: ibm-plex-sans, sans-serif;
+    font-family: optima;
     outline: none;
     background-color: #161a1f;
     background-color: #32213A;
@@ -188,7 +190,7 @@ body {
     text-transform: uppercase;
     color: white;
     font-weight: 400;
-    padding: 10px 30px 12px 30px;
+    padding: 15px 36px 15px 36px;
     transition: cubic-bezier(0.165, 0.84, 0.44, 1) 240ms;
     width: fit-content;
 }
@@ -222,6 +224,21 @@ body {
     grid-template-rows: auto;
     padding: 20px;
     box-shadow: inset 0px 3px 12px rgb(32, 32, 32,0.2);
+}
+
+.nav-1{
+    display: flex;
+    padding: 18px 180px;
+    background-color: #32213A;
+    color: #fff;
+    justify-content: space-between;
+}
+
+.nav-1 a{
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
 }
 
 .cta-container{
@@ -304,6 +321,7 @@ body {
     margin-bottom: 0px;
     font-weight: 700;
     font-size: 18px;
+    font-family: opulent;
 }
 
 .calendar-details{
@@ -321,11 +339,13 @@ body {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 18px;
+    font-family: opulent;
 }
 .starts-from{
     grid-column: 1 / span 3;
     grid-row: 1 / span 1;
     font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .price{
