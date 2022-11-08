@@ -3,9 +3,7 @@ const http = require("http");
 const express = require('express');
 const app = express ();
 const port = 3000;
-const jsdom = require('jsdom');
-const dom = new jsdom.JSDOM("<!DOCTYPE html> <body> <h1> GeeksforGeek </h1> </body>");
-const jquery = require('jquery')(dom.window);
+
 
 //Static Files
 app.use(express.static('public'));
@@ -19,14 +17,17 @@ app.set('view engine','ejs');
 
 app.get('',(req,res) => {
     res.render('index', {text: 'This is EJS'});
+    // res.render('paymentAmount', {text: '5000'});
 })
 
 app.get('/about',(req,res) => {
     res.render('about', {text: 'This is EJS too'});
 })
 
+
 //listen in on port 3000
 // app.listen(port,() => console.info('Listening on port '+port));
+
 
 //razorpay instance
 const Razorpay = require('razorpay');
@@ -41,7 +42,7 @@ var instance = new Razorpay({
 var instance = new Razorpay({ key_id: 'rzp_test_rZxLZHEKkJ7BWZ', key_secret: 'af8ajaYQLBkRqq9up3UxCtTt' })
 
 var options = {
-  amount: "9000",  // amount in the smallest currency unit
+  amount: "100",  // amount in the smallest currency unit
   currency: "INR",
   receipt: "order_rcptid_11"
 };

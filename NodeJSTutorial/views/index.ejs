@@ -5,13 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+    </script>
     <title>Document</title>
 </head>
 
 <body>
     <h1>Hello world</h1>
-    <img src="https://images.unsplash.com/photo-1667778679904-9d008f9f22c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">
+    <img src="https://images.unsplash.com/photo-1667778679904-9d008f9f22c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        alt="">
     <h2>
 
         <%= text %>
@@ -33,7 +35,7 @@
                     "Content-Type": "application/json"
                 },
                 "data": JSON.stringify({
-                    "amount": "1000"
+                    "amount": "10000"
                 }),
             };
 
@@ -45,11 +47,12 @@
                 $("button").show();
             });
         });
-
+        
+        
         document.getElementById('rzp-button1').onclick = function (e) {
             var options = {
                 "key": "rzp_test_rZxLZHEKkJ7BWZ", // Enter the Key ID generated from the Dashboard
-                "amount": "9000", // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
+                "amount": "98000", // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
                 "currency": "INR",
                 "name": "Kaapi",
                 "description": "Kapi transaction",
@@ -66,14 +69,16 @@
                         "headers": {
                             "Content-Type": "application/json"
                         },
-                        "data": JSON.stringify({response}),
+                        "data": JSON.stringify({
+                            response
+                        }),
                     }
-                    $.ajax(settings).done(function(response){
+                    $.ajax(settings).done(function (response) {
                         alert(JSON.stringify(response));
                     });
                 },
                 "theme": {
-                    "color": "#b6f766"
+                    "color": "#000000"
                 }
             };
             var rzp1 = new Razorpay(options);
