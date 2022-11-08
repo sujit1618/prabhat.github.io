@@ -3,6 +3,9 @@ const http = require("http");
 const express = require('express');
 const app = express ();
 const port = 3000;
+const jsdom = require('jsdom');
+const dom = new jsdom.JSDOM("<!DOCTYPE html> <body> <h1> GeeksforGeek </h1> </body>");
+const jquery = require('jquery')(dom.window);
 
 //Static Files
 app.use(express.static('public'));
@@ -27,6 +30,7 @@ app.get('/about',(req,res) => {
 
 //razorpay instance
 const Razorpay = require('razorpay');
+const request = require('request');
 var instance = new Razorpay({
     key_id: 'rzp_test_rZxLZHEKkJ7BWZ',
     key_secret: 'af8ajaYQLBkRqq9up3UxCtTt',
@@ -37,7 +41,7 @@ var instance = new Razorpay({
 var instance = new Razorpay({ key_id: 'rzp_test_rZxLZHEKkJ7BWZ', key_secret: 'af8ajaYQLBkRqq9up3UxCtTt' })
 
 var options = {
-  amount: "1000",  // amount in the smallest currency unit
+  amount: "9000",  // amount in the smallest currency unit
   currency: "INR",
   receipt: "order_rcptid_11"
 };
