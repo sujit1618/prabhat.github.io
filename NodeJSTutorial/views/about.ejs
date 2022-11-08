@@ -8,9 +8,13 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    <h1>
-        <%= text%>
+    <h1 id="h1">
+     32   <%= text%>
     </h1>
+    <script>
+        let x = document.getElementById('h1').innerHTML;
+        console.log(x);
+    </script>
     <img src="img/cats.png" alt="three cats with VR headsets">
 </body>
 </html>
