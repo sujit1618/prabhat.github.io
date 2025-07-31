@@ -1,0 +1,12 @@
+bird_0	https://prabhatprinting.com/2026/qr-codes/birds-calendar/jan.html
+bird_1	https://prabhatprinting.com/2026/qr-codes/birds-calendar/feb.html
+bird_2	https://prabhatprinting.com/2026/qr-codes/birds-calendar/mar.html
+bird_3	https://prabhatprinting.com/2026/qr-codes/birds-calendar/apr.html
+bird_4	https://prabhatprinting.com/2026/qr-codes/birds-calendar/may.html
+bird_5	https://prabhatprinting.com/2026/qr-codes/birds-calendar/jun.html
+bird_6	https://prabhatprinting.com/2026/qr-codes/birds-calendar/jul.html
+bird_7	https://prabhatprinting.com/2026/qr-codes/birds-calendar/aug.html
+bird_8	https://prabhatprinting.com/2026/qr-codes/birds-calendar/sep.html
+bird_9	https://prabhatprinting.com/2026/qr-codes/birds-calendar/oct.html
+bird_10	https://prabhatprinting.com/2026/qr-codes/birds-calendar/nov.html
+bird_11	https://prabhatprinting.com/2026/qr-codes/birds-calendar/dec.html
