@@ -1,0 +1,15 @@
+@font-face {
+    font-family: amerigo_bold_bt;
+    src: url("./fonts/amerigo_bold_bt.ttf");
+}
+
+@font-face {
+    font-family: amerigo_bold_italic_bt;
+    src: url("./fonts/amerigo_bold_italic_bt.ttf");
+}
+
+@font-face {
+    font-family: amerigo_bt;
+    src: url("./fonts/amerigo_bt.ttf");
+}
+
