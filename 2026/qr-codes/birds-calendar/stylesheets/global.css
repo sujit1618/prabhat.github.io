@@ -7,22 +7,22 @@
 
 @font-face {
     font-family: "amerigo_bold_bt";
-    src: url('../fonts/amerigo_bold_bt.ttf');
+    src: url('https://prabhatprinting.com/2026/qr-codes/fonts/amerigo_bold_bt.ttf');
 }
 
 @font-face {
     font-family: "amerigo_bold_italic_bt";
-    src: url('../fonts/amerigo_bold_italic_bt.ttf');
+    src: url('https://prabhatprinting.com/2026/qr-codes/fonts/amerigo_bold_italic_bt.ttf');
 }
  
 @font-face {
     font-family: "amerigo_bt";
-    src: url('../fonts/amerigo_bt.ttf');
+    src: url('https://prabhatprinting.com/2026/qr-codes/fonts/amerigo_bt.ttf');
 }
 
 @font-face {
     font-family: "baloo2";
-    src: url('../fonts/Baloo2-VariableFont_wght.ttf');
+    src: url('https://prabhatprinting.com/2026/qr-codes/fonts/Baloo2-VariableFont_wght.ttf');
 }
 
 body{
@@ -123,6 +123,10 @@ ul{
     font-size: 14px;
     width: auto;
     height: 48px;
+}
+
+#button-1{
+width: 48px;
 }
 
 .button-icon{
