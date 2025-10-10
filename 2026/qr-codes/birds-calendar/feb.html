@@ -3,14 +3,87 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>February 2026 | Prabhat Calendars</title>
 
     <!-- show filename in heading -->
-    <script src="./scripts/filename.js"></script>
-
-    
+    <!-- <script src="./scripts/filename.js"></script> -->
+    <link rel="stylesheet" href="./stylesheets/global.css">
+    <link rel="stylesheet" href="./stylesheets/feb.css">
 </head>
 <body>
-    
+    <audio id="bird-audio" src="./audio/feb.ogg"></audio>
+    <nav> February 2026 | Prabhat calendars </nav>
+    <div class="image-container">
+        <img class="bird-image" src="./bird-images/feb-1.jpg" alt="">
+    </div>
+    <section class="light-sec button-container">
+        <h1>
+            Yellow-browed Bulbul
+        </h1>
+        <button class="button"> <img id="button-icon-1" class="button-icon" src="./icons/song.png" alt="" onclick="toggleAudio()">
+
+            <!-- Play Bird Call -->
+        </button>
+    </section>
+    <section class="dark-sec">
+        <div class="info">
+            <h2>About</h2>
+            <p class="info-para"> 
+                The Yellow-browed Bulbul is a bright, energetic songbird found in southern India and Sri Lanka. Its vivid yellow plumage and sharp calls make it easy to recognize in forests.
+            </p>
+        </div>
+    </section>
+        <img id="bird-2" class="bird-image" src="./bird-images/feb-2.jpg" alt="">
+        <section class="dark-sec">
+        <div class="info">
+            <h2>Identification</h2>
+            <p class="info-para"> 
+                <ul>
+                    <li>The bird has olive-green upperparts and bright yellow underparts.</li> <li>A distinct yellow brow and eye-ring highlight its face.</li> <li>It lacks a crest and both sexes look alike.</li> <li>The bill is black and the iris is reddish brown.</li> <li>Its calls include whistle-like notes and sharp pick-wick sounds.</li>
+                </ul>
+            </p>
+        </div>
+        </section>
+        <section class="dark-sec">
+        <div class="info">
+            <h2>Habitat & Behavior</h2>
+            <p class="info-para"> 
+                This bulbul lives below the forest canopy in hill forests and plantations. It moves in pairs or small groups, feeds on berries and insects, and breeds before the monsoon season.
+            </p>
+        </div>
+    </section>
+
+    <section class="light-sec">
+        <h2>
+            Learn more
+        </h2>
+        <p class="info-para">
+            Read more about the Yellow-browed Bulbul and its wonderous characteristics on portals like E-Bird.
+        </p>
+        <button class="button" id="button-2" onclick="window.open('https://ebird.org/species/yebbul3?siteLanguage=en_IN', '_blank')">
+            <img id="button-icon-2" class="button-icon" src="./icons/External_Link.svg" alt=""> Open in eBird
+        </button>
+    </section>
+    <footer>
+        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
+    </footer>
+</body>
+</html><script>
+    let isPlaying = false;
+    const audioEl = document.getElementById('bird-audio');
+
+    function toggleAudio() {
+        if (!isPlaying) {
+            audioEl.loop = true;
+            audioEl.play();
+            document.getElementById('button-icon-1').setAttribute('src','./icons/Pause.svg')
+        } else {
+            audioEl.pause();
+            audioEl.currentTime = 0;
+            document.getElementById('button-icon-1').setAttribute('src','./icons/song.png')
+        }
+        isPlaying = !isPlaying;
+    }
+</script>
 </body>
 </html>
