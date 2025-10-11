@@ -3,14 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>December 2026 | Prabhat Calendars</title>
 
     <!-- show filename in heading -->
-    <script src="./scripts/filename.js"></script>
-
+    <!-- <script src="./scripts/filename.js"></script> -->
+    <link rel="stylesheet" href="./stylesheets/global.css">
     
 </head>
 <body>
-    
+    <audio id="bird-audio" src="./audio/feb.ogg"></audio>
+    <nav> December 2026 | Prabhat calendars </nav>
+    <div class="image-container">
+        <img class="bird-image" src="./bird-images/dec-1.jpg" alt="">
+    </div>
+    <section class="light-sec button-container">
+        <h1>
+            Bar-headed Geese
+        </h1>
+        <button style="display: none;" class="button"> <img id="button-icon-1" class="button-icon" src="./icons/song.png" alt="" onclick="toggleAudio()">
+
+            <!-- Play Bird Call -->
+        </button>
+    </section>
+    <section class="dark-sec">
+        <div class="info">
+            <h2>About</h2>
+            <p class="info-para"> 
+                The Bar-headed Goose is a pale, high-flying migratory bird known for crossing the Himalayas. It breeds in Central Asia and winters in wetlands across the Indian subcontinent.
+            </p>
+        </div>
+    </section>
+        <img id="bird-2" class="bird-image" src="./bird-images/dec-2.jpg" alt="">
+        <section class="dark-sec">
+        <div class="info">
+            <h2>Identification</h2>
+            <p class="info-para"> 
+                <ul>
+                    <li>It has a light grey body with white face and neck.</li> <li>Two bold black bars run across the back of its head.</li> <li>Legs and bill are orange-yellow, contrasting with its plumage.</li> <li>Wings are long and pointed, aiding high-altitude flight.</li> <li>Its call is a loud, honking sound often heard in flocks.</li>
+                </ul>
+            </p>
+        </div>
+        </section>
+        <section class="light-sec">
+        <div class="info">
+            <h2>Habitat & Behavior</h2>
+            <p class="info-para"> 
+                Bar-headed Geese prefer lakes, marshes, and riverbanks. They graze on grasses and crops, nest near water in colonies, and migrate seasonally over extreme altitudes with remarkable endurance.
+            </p>
+        </div>
+    </section>
+    <section class="dark-sec">
+        <h2>
+            Learn more
+        </h2>
+        <p class="info-para">
+            Read more about this bird and its wonderous characteristics on portals like E-Bird.
+        </p>
+        <button class="button" id="button-2" onclick="openebird()">
+            <img id="button-icon-2" class="button-icon" src="./icons/External_Link.svg" alt=""> Open in eBird
+        </button>
+    </section>
+    <footer>
+        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
+    </footer>
+</body>
+</html>
+<script>
+    let isPlaying = false;
+    const audioEl = document.getElementById('bird-audio');
+
+    function toggleAudio() {
+        if (!isPlaying) {
+            audioEl.loop = true;
+            audioEl.play();
+            document.getElementById('button-icon-1').setAttribute('src','./icons/Pause.svg')
+        } else {
+            audioEl.pause();
+            audioEl.currentTime = 0;
+            document.getElementById('button-icon-1').setAttribute('src','./icons/song.png')
+        }
+        isPlaying = !isPlaying;
+    }
+     function openebird(){
+        window.open('https://ebird.org/species/bahgoo', '_blank')
+     }
+
+</script>
 </body>
 </html>

@@ -3,14 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>April 2026 | Prabhat Calendars</title>
 
     <!-- show filename in heading -->
-    <script src="./scripts/filename.js"></script>
-
+    <!-- <script src="./scripts/filename.js"></script> -->
+    <link rel="stylesheet" href="./stylesheets/global.css">
     
 </head>
 <body>
-    
+    <audio id="bird-audio" src="./audio/feb.ogg"></audio>
+    <nav> April 2026 | Prabhat calendars </nav>
+    <div class="image-container">
+        <img class="bird-image" src="./bird-images/apr-1.jpg" alt="">
+    </div>
+    <section class="light-sec button-container">
+        <h1>
+            Small Minivet
+        </h1>
+        <button style="display: none;" class="button"> <img id="button-icon-1" class="button-icon" src="./icons/song.png" alt="" onclick="toggleAudio()">
+
+            <!-- Play Bird Call -->
+        </button>
+    </section>
+    <section class="dark-sec">
+        <div class="info">
+            <h2>About</h2>
+            <p class="info-para"> 
+                The Small Minivet is a vibrant, insect-eating songbird found across the Indian subcontinent. Males are strikingly colorful, while females are more subdued, both flitting actively through treetops.
+            </p>
+        </div>
+    </section>
+        <img id="bird-2" class="bird-image" src="./bird-images/apr-2.jpg" alt="">
+        <section class="dark-sec">
+        <div class="info">
+            <h2>Identification</h2>
+            <p class="info-para"> 
+                <ul>
+                    <li>Males have a glossy black head and back with bright orange underparts and rump.</li> <li>Females are grey above with yellow underparts and rump.</li> <li>Both sexes have slender black bills and long tails.</li> <li>Wings are dark with contrasting orange or yellow patches depending on sex.</li> <li>They emit soft, whistling calls and are often seen in small flocks.</li>
+                </ul>
+            </p>
+        </div>
+        </section>
+        <section class="light-sec">
+        <div class="info">
+            <h2>Habitat & Behavior</h2>
+            <p class="info-para"> 
+                Small Minivets inhabit open forests, gardens, and scrublands. They forage actively in the canopy, catching insects mid-air or from foliage, and breed during the dry season in cup-shaped nests.
+            </p>
+        </div>
+    </section>
+    <section class="dark-sec">
+        <h2>
+            Learn more
+        </h2>
+        <p class="info-para">
+            Read more about this bird and its wonderous characteristics on portals like E-Bird.
+        </p>
+        <button class="button" id="button-2" onclick="openebird()">
+            <img id="button-icon-2" class="button-icon" src="./icons/External_Link.svg" alt=""> Open in eBird
+        </button>
+    </section>
+    <footer>
+        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
+    </footer>
+</body>
+</html>
+<script>
+    let isPlaying = false;
+    const audioEl = document.getElementById('bird-audio');
+
+    function toggleAudio() {
+        if (!isPlaying) {
+            audioEl.loop = true;
+            audioEl.play();
+            document.getElementById('button-icon-1').setAttribute('src','./icons/Pause.svg')
+        } else {
+            audioEl.pause();
+            audioEl.currentTime = 0;
+            document.getElementById('button-icon-1').setAttribute('src','./icons/song.png')
+        }
+        isPlaying = !isPlaying;
+    }
+     function openebird(){
+        window.open('https://ebird.org/species/smamin1', '_blank')
+     }
+
+</script>
 </body>
 </html>

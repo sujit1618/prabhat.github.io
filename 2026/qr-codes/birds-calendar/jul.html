@@ -3,14 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>July 2026 | Prabhat Calendars</title>
 
     <!-- show filename in heading -->
-    <script src="./scripts/filename.js"></script>
-
+    <!-- <script src="./scripts/filename.js"></script> -->
+    <link rel="stylesheet" href="./stylesheets/global.css">
     
 </head>
 <body>
-    
+    <audio id="bird-audio" src="./audio/feb.ogg"></audio>
+    <nav> July 2026 | Prabhat calendars </nav>
+    <div class="image-container">
+        <img class="bird-image" src="./bird-images/jul-1.png" alt="">
+    </div>
+    <section class="light-sec button-container">
+        <h1>
+            Blue-capped Rock-Thrush
+        </h1>
+        <button style="display: none;" class="button"> <img id="button-icon-1" class="button-icon" src="./icons/song.png" alt="" onclick="toggleAudio()">
+
+            <!-- Play Bird Call -->
+        </button>
+    </section>
+    <section class="dark-sec">
+        <div class="info">
+            <h2>About</h2>
+            <p class="info-para"> 
+                The Blue-capped Rock-Thrush is a strikingly colorful bird found in the Himalayan foothills and central India. It is admired for its vivid plumage and melodious, flute-like song.
+            </p>
+        </div>
+    </section>
+        <img id="bird-2" class="bird-image" src="./bird-images/jul-2.png" alt="">
+        <section class="dark-sec">
+        <div class="info">
+            <h2>Identification</h2>
+            <p class="info-para"> 
+                <ul>
+                    <li>Males have a bright blue head, throat, and upper back.</li> <li>The chest and belly are rich orange, contrasting with the blue.</li> <li>Females are brownish with faint streaks and a duller appearance.</li> <li>Both sexes have a medium-length tail and strong legs.</li> <li>Their song is a sweet, whistling tune often heard during breeding season.</li>
+                </ul>
+            </p>
+        </div>
+        </section>
+        <section class="light-sec">
+        <div class="info">
+            <h2>Habitat & Behavior</h2>
+            <p class="info-para"> 
+                This rock-thrush prefers wooded hillsides, forest edges, and rocky terrain. It breeds in summer, feeds on insects and berries, and migrates to southern India during winter months.
+            </p>
+        </div>
+    </section>
+    <section class="dark-sec">
+        <h2>
+            Learn more
+        </h2>
+        <p class="info-para">
+            Read more about this bird and its wonderous characteristics on portals like E-Bird.
+        </p>
+        <button class="button" id="button-2" onclick="openebird()">
+            <img id="button-icon-2" class="button-icon" src="./icons/External_Link.svg" alt=""> Open in eBird
+        </button>
+    </section>
+    <footer>
+        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
+    </footer>
+</body>
+</html>
+<script>
+    let isPlaying = false;
+    const audioEl = document.getElementById('bird-audio');
+
+    function toggleAudio() {
+        if (!isPlaying) {
+            audioEl.loop = true;
+            audioEl.play();
+            document.getElementById('button-icon-1').setAttribute('src','./icons/Pause.svg')
+        } else {
+            audioEl.pause();
+            audioEl.currentTime = 0;
+            document.getElementById('button-icon-1').setAttribute('src','./icons/song.png')
+        }
+        isPlaying = !isPlaying;
+    }
+     function openebird(){
+        window.open('https://ebird.org/species/bcrthr1', '_blank')
+     }
+
+</script>
 </body>
 </html>
