@@ -59,7 +59,7 @@
         <p class="info-para">
             Read more about the Yellow-browed Bulbul and its wonderous characteristics on portals like E-Bird.
         </p>
-        <button class="button" id="button-2" onclick="window.open('https://ebird.org/species/yebbul3?siteLanguage=en_IN', '_blank')">
+        <button class="button" id="button-2" onclick="openebird()">
             <img id="button-icon-2" class="button-icon" src="./icons/External_Link.svg" alt=""> Open in eBird
         </button>
     </section>
@@ -67,7 +67,8 @@
         © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
     </footer>
 </body>
-</html><script>
+</html>
+<script>
     let isPlaying = false;
     const audioEl = document.getElementById('bird-audio');
 
@@ -83,6 +84,10 @@
         }
         isPlaying = !isPlaying;
     }
+     function openebird(){
+        window.open('https://ebird.org/species/yebbul3?siteLanguage=en_IN', '_blank')
+     }
+
 </script>
 </body>
 </html>
