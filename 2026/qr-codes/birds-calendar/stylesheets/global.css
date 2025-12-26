@@ -102,10 +102,11 @@ h2{
     object-fit: cover;
     display: block;
     height: 100vw;
+    margin: 0, auto;
 }
 ul{
     font-family: 'amerigo_bt';
-    font-size: 16px;
+    font-size: 18px;
     color: var(--text-color);
     margin: 0px 0px 0px 8px;
     padding: 0px 0px 0px 12px;
