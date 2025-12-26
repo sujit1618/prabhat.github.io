@@ -97,7 +97,7 @@ h2{
 }
 
 .bird-image{
-    width: 100%;
+    width: 100vw;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     display: block;
