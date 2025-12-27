@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,8 +9,9 @@
     <!-- show filename in heading -->
     <!-- <script src="./scripts/filename.js"></script> -->
     <link rel="stylesheet" href="./stylesheets/global.css">
-    
+
 </head>
+
 <body>
     <audio id="bird-audio" src="./audio/jan.ogg"></audio>
     <nav> January 2026 | Prabhat calendars </nav>
@@ -20,7 +22,8 @@
         <h1>
             Coppersmith Barbet
         </h1>
-        <button style="display: block;" class="button"> <img id="button-icon-1" class="button-icon" src="./icons/song.png" alt="" onclick="toggleAudio()">
+        <button style="display: block;" class="button"> <img id="button-icon-1" class="button-icon"
+                src="./icons/song.png" alt="" onclick="toggleAudio()">
 
             <!-- Play Bird Call -->
         </button>
@@ -28,27 +31,32 @@
     <section class="dark-sec">
         <div class="info">
             <h2>About</h2>
-            <p class="info-para"> 
-                The Coppersmith Barbet is a small, colorful bird known for its repetitive, metallic call. Found across India, it adds vibrant charm to urban parks, gardens, and wooded areas.
+            <p class="info-para">
+                The Coppersmith Barbet is a small, colorful bird known for its repetitive, metallic call. Found across
+                India, it adds vibrant charm to urban parks, gardens, and wooded areas.
             </p>
         </div>
     </section>
-        <img id="bird-2" class="bird-image" src="./bird-images/jan-2.jpg" alt="">
-        <section class="dark-sec">
+    <img id="bird-2" class="bird-image" src="./bird-images/jan-2.jpg" alt="">
+    <section class="dark-sec">
         <div class="info">
             <h2>Identification</h2>
-            <p class="info-para"> 
-                <ul>
-                    <li>It has a green body with yellow streaks and a red forehead.</li> <li>The throat is yellow with a red patch below it.</li> <li>Eyes are dark with a bold black eye-ring.</li> <li>Its bill is stout and black, suited for fruit pecking.</li> <li>The call resembles a coppersmith striking metal, heard in rhythmic bursts.</li>
-                </ul>
-            </p>
+            <ul>
+                <li>It has a green body with yellow streaks and a red forehead.</li>
+                <li>The throat is yellow with a red patch below it.</li>
+                <li>Eyes are dark with a bold black eye-ring.</li>
+                <li>Its bill is stout and black, suited for fruit pecking.</li>
+                <li>The call resembles a coppersmith striking metal, heard in rhythmic bursts.</li>
+            </ul>
+
         </div>
-        </section>
-        <section class="light-sec">
+    </section>
+    <section class="light-sec">
         <div class="info">
             <h2>Habitat & Behavior</h2>
-            <p class="info-para"> 
-                Coppersmith Barbets prefer fig trees, groves, and city gardens. They feed on fruits and berries, nest in tree cavities, and sing persistently during the breeding season, often from exposed perches.
+            <p class="info-para">
+                Coppersmith Barbets prefer fig trees, groves, and city gardens. They feed on fruits and berries, nest in
+                tree cavities, and sing persistently during the breeding season, often from exposed perches.
             </p>
         </div>
     </section>
@@ -64,9 +72,11 @@
         </button>
     </section>
     <footer>
-        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit permission of Prabhat Printers and United Multicolour Printers Private Limited.
+        © All Rights Reserved. No part of this webpage may be copied, printed, or otherwise printed without the explicit
+        permission of Prabhat Printers and United Multicolour Printers Private Limited.
     </footer>
 </body>
+
 </html>
 <script>
     let isPlaying = false;
@@ -76,18 +86,19 @@
         if (!isPlaying) {
             audioEl.loop = true;
             audioEl.play();
-            document.getElementById('button-icon-1').setAttribute('src','./icons/Pause.svg')
+            document.getElementById('button-icon-1').setAttribute('src', './icons/Pause.svg')
         } else {
             audioEl.pause();
             audioEl.currentTime = 0;
-            document.getElementById('button-icon-1').setAttribute('src','./icons/song.png')
+            document.getElementById('button-icon-1').setAttribute('src', './icons/song.png')
         }
         isPlaying = !isPlaying;
     }
-     function openebird(){
-        window.open('https://ebird.org/species/copbar1', '_blank')
-     }
 
+    function openebird() {
+        window.open('https://ebird.org/species/copbar1', '_blank')
+    }
 </script>
 </body>
+
 </html>
