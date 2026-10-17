@@ -1,0 +1,55 @@
+{
+  "month": "December",
+  "bird": "Asian Green Bee-eater",
+  "scientific_name": "Merops orientalis",
+  "photo": {
+    "title": "Love birds image.jpg",
+    "creator": "Gopinath KARUMALAI; image adjustments by MPF",
+    "licence": "CC0 1.0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Love_birds_image.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": {
+    "title": "Asian green bee-eater call recorded in August 2014 at Sangli.wav",
+    "creator": "Sharad Apte (Sharadapte)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Asian_green_bee-eater_call_recorded_in_August_2014_at_Sangli.wav",
+    "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+  },
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=grnbee3&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Asian_green_bee-eater",
+  "checked": "2026-10-17",
+  "marathi_name": "वेडा राघू",
+  "ebird_species_url": "https://ebird.org/species/grnbee3",
+  "facts_sources": [
+    "https://en.wikipedia.org/wiki/Asian_green_bee-eater",
+    "https://ebird.org/species/grnbee3",
+    "https://neeriathome.neeri.res.in/biodiversity/GreenBeeEater.php"
+  ],
+  "additional_photos": [
+    {
+      "title": "Green Bee Eater (সুই চোরা). (cropped).jpg",
+      "creator": "Rakib Hasan Sumon, crop by Kersti Nebelsiek",
+      "licence": "CC BY 2.0",
+      "alt": "Asian Green Bee-eater in a closer view, showing its eye stripe and green plumage.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Bee_Eater_(সুই_চোরা)._(cropped).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "Kakolu Scrub Forest (40360740873).jpg",
+      "creator": "Mike Prince",
+      "licence": "CC BY 2.0",
+      "alt": "Open scrub at Kakolu in Karnataka, illustrating the scrubby habitat used by Asian Green Bee-eaters.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

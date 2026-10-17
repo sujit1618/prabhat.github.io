@@ -1,0 +1,1 @@
+All media, typography and styles are embedded in ../index.html. This folder contains separate editable copies. Image details and sources are in media-credits.json. Photographs that require attribution link to their original Commons page. Audio keeps its original licence. Fonts use the SIL Open Font License, included here and within the HTML.

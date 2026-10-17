@@ -1,0 +1,55 @@
+{
+  "month": "November",
+  "bird": "Indian Paradise-Flycatcher",
+  "scientific_name": "Terpsiphone paradisi",
+  "photo": {
+    "title": "Indian paradise flycatcher feeding her newly born babies.jpg",
+    "creator": "Princepauljoy",
+    "licence": "CC0 1.0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_feeding_her_newly_born_babies.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": {
+    "title": "Indian paradise flycatcher call recorded in February 2006 at Jamboti, Karnataka.wav",
+    "creator": "Sharad Apte (Sharadapte)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_call_recorded_in_February_2006_at_Jamboti%2C_Karnataka.wav",
+    "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+  },
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=aspfly1&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Indian_paradise_flycatcher",
+  "checked": "2026-10-17",
+  "marathi_name": "स्वर्गीय नर्तक",
+  "ebird_species_url": "https://ebird.org/species/aspfly1",
+  "facts_sources": [
+    "https://en.wikipedia.org/wiki/Indian_paradise_flycatcher",
+    "https://stateofindiasbirds.in/species/aspfly1/",
+    "https://ebird.org/species/aspfly1"
+  ],
+  "additional_photos": [
+    {
+      "title": "Indian Paradise Flycatcher (25299398417).jpg",
+      "creator": "Koshy Koshy",
+      "licence": "CC BY 2.0",
+      "alt": "Indian Paradise-Flycatcher photographed at Thattekkad in Kerala.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Paradise_Flycatcher_(25299398417).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "Evergreen Forest Kerala India.jpg",
+      "creator": "Davidvraju",
+      "licence": "CC0 1.0",
+      "alt": "Forest in Kerala, illustrating leafy woodland cover used by forest birds rather than a confirmed nesting location.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Evergreen_Forest_Kerala_India.jpg",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

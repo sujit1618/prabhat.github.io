@@ -1,0 +1,48 @@
+{
+  "month": "October",
+  "bird": "Black-throated Tit",
+  "scientific_name": "Aegithalos concinnus",
+  "photo": {
+    "title": "Black-throated Tit.jpg",
+    "creator": "Johnny Wee (Natureatyourbackyard)",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Black-throated_Tit.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": null,
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=blttit2&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Black-throated_bushtit",
+  "checked": "2026-10-17",
+  "marathi_name": "काळ्या गळ्याचा टीट",
+  "ebird_species_url": "https://ebird.org/species/blttit2",
+  "facts_sources": [
+    "https://en.wikipedia.org/wiki/Black-throated_bushtit",
+    "https://stateofindiasbirds.in/species/blttit2/",
+    "https://ebird.org/species/blttit2"
+  ],
+  "additional_photos": [
+    {
+      "title": "Black-throated Tit (34709566196).jpg",
+      "creator": "lonelyshrimp",
+      "licence": "CC0 1.0",
+      "alt": "Black-throated Tit photographed in Myanmar, showing its patterned head and dark throat patch.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Black-throated_Tit_(34709566196).jpg",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "Cedrus deodara Manali 5.jpg",
+      "creator": "B Balaji, colour adjustment by MPF",
+      "licence": "CC BY 2.0",
+      "alt": "Deodar woodland near Manali in Himachal Pradesh, illustrating a Himalayan wooded landscape rather than a confirmed tit sighting.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cedrus_deodara_Manali_5.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

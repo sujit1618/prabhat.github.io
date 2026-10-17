@@ -1,0 +1,48 @@
+{
+  "month": "May",
+  "bird": "Blue-cheeked Bee-eater",
+  "scientific_name": "Merops persicus",
+  "photo": {
+    "title": "Blue-cheeked Bee-eater (Merops persicus) (8079414682).jpg",
+    "creator": "Ron Knight",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue-cheeked_Bee-eater_%28Merops_persicus%29_%288079414682%29.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": null,
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=bcbeat1&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater",
+  "checked": "2026-10-17",
+  "marathi_name": "निळ्या गालाचा वेडा राघू",
+  "ebird_species_url": "https://ebird.org/species/bcbeat1",
+  "facts_sources": [
+    "https://ebird.org/species/bcbeat1",
+    "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater",
+    "https://stateofindiasbirds.in/species/bcbeat1/"
+  ],
+  "additional_photos": [
+    {
+      "title": "Blue-cheeked bee-eater, Merops persicus, Chobe National Park, Botswana (32364943881).jpg",
+      "creator": "Derek Keats",
+      "licence": "CC BY 2.0",
+      "alt": "Blue-cheeked Bee-eater photographed in Botswana, showing the blue face markings and long bill.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue-cheeked_bee-eater,_Merops_persicus,_Chobe_National_Park,_Botswana_(32364943881).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "Kakolu Scrub Forest (40360740873).jpg",
+      "creator": "Mike Prince",
+      "licence": "CC BY 2.0",
+      "alt": "Open scrub at Kakolu in Karnataka, illustrating an open scrub landscape rather than a confirmed Blue-cheeked Bee-eater sighting.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

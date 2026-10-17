@@ -1,0 +1,54 @@
+{
+  "month": "March",
+  "bird": "Red Avadavat",
+  "scientific_name": "Amandava amandava",
+  "photo": {
+    "title": "A pair of Red avadavat (Amandava amandava) Photograph by Shantanu Kuveskar.jpg",
+    "creator": "Shantanu Kuveskar",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:A_pair_of_Red_avadavat_%28Amandava_amandava%29_Photograph_by_Shantanu_Kuveskar.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": {
+    "title": "Red avadavat song recorded in November 2008 at Sangli, Maharashtra.wav",
+    "creator": "Sharad Apte (Sharadapte)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_avadavat_song_recorded_in_November_2008_at_Sangli%2C_Maharashtra.wav",
+    "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+  },
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=redava&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Red_avadavat",
+  "checked": "2026-10-17",
+  "marathi_name": "लाल मुनिया",
+  "ebird_species_url": "https://ebird.org/species/redava",
+  "facts_sources": [
+    "https://www.allaboutbirds.org/guide/Red_Avadavat/lifehistory",
+    "https://en.wikipedia.org/wiki/Red_avadavat"
+  ],
+  "additional_photos": [
+    {
+      "title": "Red Avadavat (48967998927).jpg",
+      "creator": "Mike Prince",
+      "licence": "CC BY 2.0",
+      "alt": "Red Avadavat perched among vegetation.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_(48967998927).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "Terraced rice fields of Sikkim India.jpg",
+      "creator": "Anja Disseldorp",
+      "licence": "CC BY 2.0",
+      "alt": "Rice fields in Sikkim, illustrating cultivated habitat with grassy field edges rather than a confirmed bird sighting.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Terraced_rice_fields_of_Sikkim_India.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

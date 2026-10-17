@@ -1,0 +1,55 @@
+{
+  "month": "August",
+  "bird": "Vernal Hanging-Parrot",
+  "scientific_name": "Loriculus vernalis",
+  "photo": {
+    "title": "Vernal Hanging Parrot-3.jpg",
+    "creator": "Sandeep Gangadharan",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Vernal_Hanging_Parrot-3.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": {
+    "title": "Vernal hanging parrot flight call recorded in February 2010 at Kulgi, Karnataka.wav",
+    "creator": "Sharad Apte (Sharadapte)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Vernal_hanging_parrot_flight_call_recorded_in_February_2010_at_Kulgi%2C_Karnataka.wav",
+    "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+  },
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=vehpar1&mediaType=audio",
+  "facts_source": "https://parrots.org/encyclopedia/vernal-hanging-parrot/",
+  "checked": "2026-10-17",
+  "marathi_name": "पिचू पोपट",
+  "ebird_species_url": "https://ebird.org/species/vehpar1",
+  "facts_sources": [
+    "https://parrots.org/encyclopedia/vernal-hanging-parrot/",
+    "https://en.wikipedia.org/wiki/Vernal_hanging_parrot",
+    "https://www.npcil.nic.in/WriteReadData/CMS/201712250515294735715Birds_of_Kaiga.pdf"
+  ],
+  "additional_photos": [
+    {
+      "title": "The Pesky Parrot - Vernal Hanging Parrot (9654098096).jpg",
+      "creator": "Vipin Baliga",
+      "licence": "CC BY 2.0",
+      "alt": "Vernal Hanging-Parrot feeding among foliage and fruit.",
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Pesky_Parrot_-_Vernal_Hanging_Parrot_(9654098096).jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    },
+    {
+      "title": "(The) Western Ghats Lake Forest Nature Scene, India December 2013.jpg",
+      "creator": "Navaneeth KN",
+      "licence": "CC BY 2.0",
+      "alt": "Wooded landscape in the Western Ghats, illustrating forest cover rather than a confirmed hanging-parrot sighting.",
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:(The)_Western_Ghats_Lake_Forest_Nature_Scene,_India_December_2013.jpg",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "changes": "Wikimedia image resized for the webpage without further cropping."
+    }
+  ]
+}

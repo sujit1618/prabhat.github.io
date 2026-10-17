@@ -1,0 +1,51 @@
+{
+  "month": "January",
+  "bird": "Crested Bunting",
+  "scientific_name": "Emberiza lathami",
+  "photo": {
+    "title": "Emberiza lathami 337784286.jpg",
+    "creator": "James Eaton",
+    "licence": "CC0 1.0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Emberiza_lathami_337784286.jpg",
+    "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+  },
+  "audio": {
+    "title": "Crested bunting song recorded in June 1999 at Sagareshwar Sanctuary, Sangli.wav",
+    "creator": "Sharad Apte (Sharadapte)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Crested_bunting_song_recorded_in_June_1999_at_Sagareshwar_Sanctuary%2C_Sangli.wav",
+    "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+  },
+  "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=crebun1&mediaType=audio",
+  "facts_source": "https://en.wikipedia.org/wiki/Crested_bunting",
+  "checked": "2026-10-17",
+  "marathi_name": "युवराज",
+  "ebird_species_url": "https://ebird.org/species/crebun1",
+  "additional_photos": [
+    {
+      "section": "description-title",
+      "file": "bird-detail.jpg",
+      "alt": "Crested Bunting photographed in Pune, showing its crest, dark body and chestnut wings.",
+      "title": "Crested Bunting a Striking Hillside Birds 01.jpg",
+      "creator": "Shiv's fotografia",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Crested_Bunting_a_Striking_Hillside_Birds_01.jpg"
+    },
+    {
+      "section": "habitat-title",
+      "file": "habitat.jpg",
+      "alt": "Open, rocky grassland on the Kaas Plateau in Maharashtra. This photograph illustrates the habitat type and does not confirm a bird sighting.",
+      "title": "Kaas Plateau India late October 2012.jpg",
+      "creator": "Travelling Slacker",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kaas_Plateau_India_late_October_2012.jpg"
+    }
+  ],
+  "facts_sources": [
+    "https://en.wikipedia.org/wiki/Crested_bunting",
+    "https://www.birdforum.net/opus/Emberiza_lathami",
+    "https://www.birdtaxonomy.in/Emberizidae.html"
+  ]
+}
