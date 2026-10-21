@@ -1,0 +1,133 @@
+{
+  "scenes": [
+    {
+      "scene": 0,
+      "purpose": "Introduce the visual story",
+      "source": "Approved calendar collection",
+      "format": "Cover photograph and introduction",
+      "interaction": "Begin the story",
+      "media": "Crested Bunting"
+    },
+    {
+      "scene": 1,
+      "month": "January",
+      "purpose": "A crest above the grass.",
+      "source": "bird-calendar/01-january",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 2,
+      "month": "February",
+      "purpose": "A hunter of open country.",
+      "source": "bird-calendar/02-february",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 3,
+      "month": "March",
+      "purpose": "A spark of red.",
+      "source": "bird-calendar/03-march",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 4,
+      "month": "April",
+      "purpose": "A flash above the water.",
+      "source": "bird-calendar/04-april",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 5,
+      "month": "May",
+      "purpose": "Blue across the cheek.",
+      "source": "bird-calendar/05-may",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 6,
+      "month": "June",
+      "purpose": "Voices among the leaves.",
+      "source": "bird-calendar/06-june",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird, alternate bird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 7,
+      "month": "July",
+      "purpose": "Colour in the forest shade.",
+      "source": "bird-calendar/07-july",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 8,
+      "month": "August",
+      "purpose": "A small parrot, a leafy world.",
+      "source": "bird-calendar/08-august",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 9,
+      "month": "September",
+      "purpose": "Still in the moving air.",
+      "source": "bird-calendar/09-september",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 10,
+      "month": "October",
+      "purpose": "Small birds, shared branches.",
+      "source": "bird-calendar/10-october",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 11,
+      "month": "November",
+      "purpose": "The long tail of the forest.",
+      "source": "bird-calendar/11-november",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 12,
+      "month": "December",
+      "purpose": "Green against the open sky.",
+      "source": "bird-calendar/12-december",
+      "format": "Photographic chapter with layered reading",
+      "interaction": "Photo views, enlarge, reading tabs, audio and eBird",
+      "transition": "Next bird in the calendar sequence"
+    },
+    {
+      "scene": 13,
+      "purpose": "Invite another reading",
+      "source": "Complete bird profiles",
+      "format": "Closing scene",
+      "interaction": "Return to the beginning"
+    }
+  ],
+  "birds": 13,
+  "calendar_months": 12,
+  "languages": [
+    "en",
+    "mr"
+  ]
+}
