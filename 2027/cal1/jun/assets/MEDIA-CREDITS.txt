@@ -1,27 +1,27 @@
-Fierce Beak of a Alexandrine parakeet..JPG
-Creator: Rudolph.A.furtado
+Ashy prinia kottayam.jpg
+Creator: Tonynirappathu, colour adjustment by MPF
 Licence: CC0 1.0
-Source: https://commons.wikimedia.org/wiki/File:Fierce_Beak_of_a_Alexandrine_parakeet..JPG
 https://creativecommons.org/publicdomain/zero/1.0/
-Changes: Wikimedia thumbnail used; displayed at responsive size. No additional crop.
+Source: https://commons.wikimedia.org/wiki/File:Ashy_prinia_kottayam.jpg
+Changes: Resized for the webpage without further cropping.
 
-Alexandrine parakeet sound.wav
-Creator: Ganesh Mohan T
-Licence: CC BY-SA 4.0
-Source: https://commons.wikimedia.org/wiki/File:Alexandrine_parakeet_sound.wav
-https://creativecommons.org/licenses/by-sa/4.0/
-Changes: MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0.
-
-A Male with another - Alexandrine Parakeets (51005695606).jpg
-Creator: Hari K Patibanda
+Prinia socialis -Pune, Maharashtra, India-8.jpg
+Creator: Yogendra Joshi
 Licence: CC BY 2.0
-Licence URL: https://creativecommons.org/licenses/by/2.0/
-Source: https://commons.wikimedia.org/wiki/File:A_Male_with_another_-_Alexandrine_Parakeets_(51005695606).jpg
+https://creativecommons.org/licenses/by/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Prinia_socialis_-Pune,_Maharashtra,_India-8.jpg
+Changes: Wikimedia version with border and watermark removed. Recompressed without further cropping.
+
+Kakolu Scrub Forest (40360740873).jpg
+Creator: Mike Prince
+Licence: CC BY 2.0
+https://creativecommons.org/licenses/by/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg
 Changes: Wikimedia image resized for the webpage without further cropping.
 
-Banyan Tree 04.jpg
-Creator: Herdaisymione
-Licence: CC0 1.0
-Licence URL: https://creativecommons.org/publicdomain/zero/1.0/
-Source: https://commons.wikimedia.org/wiki/File:Banyan_Tree_04.jpg
-Changes: Wikimedia image resized for the webpage without further cropping.
+AshyPrinia.ogg
+Creator: L. Shyamal
+Licence: CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+Source: https://commons.wikimedia.org/wiki/File:AshyPrinia.ogg
+Changes: Full recording converted to MP3 without trimming. Audio remains CC BY-SA 3.0.
