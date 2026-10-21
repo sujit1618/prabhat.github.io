@@ -52,5 +52,13 @@
       "licence_url": "https://creativecommons.org/licenses/by/2.0/",
       "changes": "Wikimedia image resized for the webpage without further cropping."
     }
-  ]
+  ],
+  "languages": {
+    "en": "index.html",
+    "mr": "index-mr.html"
+  },
+  "display_names": {
+    "en": "Ashy Prinia (राखी वटवट्या)",
+    "mr": "राखी वटवट्या (Ashy Prinia)"
+  }
 }

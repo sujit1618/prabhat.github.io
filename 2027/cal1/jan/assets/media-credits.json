@@ -21,7 +21,7 @@
   "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=crebun1&mediaType=audio",
   "facts_source": "https://en.wikipedia.org/wiki/Crested_bunting",
   "checked": "2026-10-17",
-  "marathi_name": "युवराज",
+  "marathi_name": "तुरेवाला भारीट",
   "ebird_species_url": "https://ebird.org/species/crebun1",
   "additional_photos": [
     {
@@ -47,5 +47,13 @@
     "https://en.wikipedia.org/wiki/Crested_bunting",
     "https://www.birdforum.net/opus/Emberiza_lathami",
     "https://www.birdtaxonomy.in/Emberizidae.html"
-  ]
+  ],
+  "languages": {
+    "en": "index.html",
+    "mr": "index-mr.html"
+  },
+  "display_names": {
+    "en": "Crested Bunting (तुरेवाला भारीट)",
+    "mr": "तुरेवाला भारीट (Crested Bunting)"
+  }
 }

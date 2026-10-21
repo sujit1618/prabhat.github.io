@@ -1,0 +1,787 @@
+[
+  {
+    "month": "January",
+    "bird": "Crested Bunting",
+    "scientific_name": "Emberiza lathami",
+    "photo": {
+      "title": "Emberiza lathami 337784286.jpg",
+      "creator": "James Eaton",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Emberiza_lathami_337784286.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Crested bunting song recorded in June 1999 at Sagareshwar Sanctuary, Sangli.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Crested_bunting_song_recorded_in_June_1999_at_Sagareshwar_Sanctuary%2C_Sangli.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=crebun1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Crested_bunting",
+    "checked": "2026-10-17",
+    "marathi_name": "तुरेवाला भारीट",
+    "ebird_species_url": "https://ebird.org/species/crebun1",
+    "additional_photos": [
+      {
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "alt": "Crested Bunting photographed in Pune, showing its crest, dark body and chestnut wings.",
+        "title": "Crested Bunting a Striking Hillside Birds 01.jpg",
+        "creator": "Shiv's fotografia",
+        "licence": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Crested_Bunting_a_Striking_Hillside_Birds_01.jpg"
+      },
+      {
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "alt": "Open, rocky grassland on the Kaas Plateau in Maharashtra. This photograph illustrates the habitat type and does not confirm a bird sighting.",
+        "title": "Kaas Plateau India late October 2012.jpg",
+        "creator": "Travelling Slacker",
+        "licence": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kaas_Plateau_India_late_October_2012.jpg"
+      }
+    ],
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Crested_bunting",
+      "https://www.birdforum.net/opus/Emberiza_lathami",
+      "https://www.birdtaxonomy.in/Emberizidae.html"
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Crested Bunting (तुरेवाला भारीट)",
+      "mr": "तुरेवाला भारीट (Crested Bunting)"
+    }
+  },
+  {
+    "month": "February",
+    "bird": "Pallid Harrier",
+    "scientific_name": "Circus macrourus",
+    "photo": {
+      "title": "Pallid Harrier Adult Male (46333226825).jpg",
+      "creator": "Koshy Koshy",
+      "licence": "CC BY 2.0",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Pallid_Harrier_Adult_Male_%2846333226825%29.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": null,
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=palhar1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Pallid_harrier",
+    "checked": "2026-10-17",
+    "marathi_name": "पांढुरका भोवत्या",
+    "ebird_species_url": "https://ebird.org/species/palhar1",
+    "facts_sources": [
+      "https://harrierwatch.atree.org/harriers/pallid-harrier",
+      "https://en.wikipedia.org/wiki/Pallid_harrier"
+    ],
+    "additional_photos": [
+      {
+        "title": "A Pallid Harrier in Flight during the morning Hunt (50523507963).jpg",
+        "creator": "Hari K Patibanda",
+        "licence": "CC BY 2.0",
+        "alt": "Pallid Harrier in flight, showing its long wings and hunting posture.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:A_Pallid_Harrier_in_Flight_during_the_morning_Hunt_(50523507963).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Kaas Plateau India late October 2012.jpg",
+        "creator": "Travelling Slacker",
+        "licence": "CC BY 2.0",
+        "alt": "Open grassland on the Kaas Plateau in Maharashtra, illustrating an open landscape type rather than a confirmed harrier sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kaas_Plateau_India_late_October_2012.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Pallid Harrier (पांढुरका भोवत्या)",
+      "mr": "पांढुरका भोवत्या (Pallid Harrier)"
+    }
+  },
+  {
+    "month": "March",
+    "bird": "Red Avadavat",
+    "scientific_name": "Amandava amandava",
+    "photo": {
+      "title": "A pair of Red avadavat (Amandava amandava) Photograph by Shantanu Kuveskar.jpg",
+      "creator": "Shantanu Kuveskar",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:A_pair_of_Red_avadavat_%28Amandava_amandava%29_Photograph_by_Shantanu_Kuveskar.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Red avadavat song recorded in November 2008 at Sangli, Maharashtra.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_avadavat_song_recorded_in_November_2008_at_Sangli%2C_Maharashtra.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=redava&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Red_avadavat",
+    "checked": "2026-10-17",
+    "marathi_name": "लाल मुनिया",
+    "ebird_species_url": "https://ebird.org/species/redava",
+    "facts_sources": [
+      "https://www.allaboutbirds.org/guide/Red_Avadavat/lifehistory",
+      "https://en.wikipedia.org/wiki/Red_avadavat"
+    ],
+    "additional_photos": [
+      {
+        "title": "Red Avadavat (48967998927).jpg",
+        "creator": "Mike Prince",
+        "licence": "CC BY 2.0",
+        "alt": "Red Avadavat perched among vegetation.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_(48967998927).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Terraced rice fields of Sikkim India.jpg",
+        "creator": "Anja Disseldorp",
+        "licence": "CC BY 2.0",
+        "alt": "Rice fields in Sikkim, illustrating cultivated habitat with grassy field edges rather than a confirmed bird sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Terraced_rice_fields_of_Sikkim_India.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Red Avadavat (लाल मुनिया)",
+      "mr": "लाल मुनिया (Red Avadavat)"
+    }
+  },
+  {
+    "month": "April",
+    "bird": "Common Kingfisher",
+    "scientific_name": "Alcedo atthis",
+    "photo": {
+      "title": "Kingfisher-bird-863495.jpg",
+      "creator": "Foundry",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kingfisher-bird-863495.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Common kingfisher call recorded in December 2015 at Anjarle, Ratnagiri.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_kingfisher_call_recorded_in_December_2015_at_Anjarle%2C_Ratnagiri.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=comkin1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Common_kingfisher",
+    "checked": "2026-10-17",
+    "marathi_name": "छोटा खंड्या",
+    "ebird_species_url": "https://ebird.org/species/comkin1",
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Common_kingfisher",
+      "https://www.birdsofindia.org/Alcedo-atthis"
+    ],
+    "additional_photos": [
+      {
+        "title": "Common Kingfisher from Sundarban.jpg",
+        "creator": "Kingshuk Mondal",
+        "licence": "CC BY 2.0",
+        "alt": "Common Kingfisher photographed in the Sundarbans.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_from_Sundarban.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Periyar River view from a moving train.. Kerala, India.jpg",
+        "creator": "Greenearth2255",
+        "licence": "CC0 1.0",
+        "alt": "The Periyar River in Kerala, illustrating a river landscape used by waterside birds.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Periyar_River_view_from_a_moving_train.._Kerala,_India.jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Common Kingfisher (छोटा खंड्या)",
+      "mr": "छोटा खंड्या (Common Kingfisher)"
+    }
+  },
+  {
+    "month": "May",
+    "bird": "Blue-cheeked Bee-eater",
+    "scientific_name": "Merops persicus",
+    "photo": {
+      "title": "Blue-cheeked Bee-eater (Merops persicus) (8079414682).jpg",
+      "creator": "Ron Knight",
+      "licence": "CC BY 2.0",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue-cheeked_Bee-eater_%28Merops_persicus%29_%288079414682%29.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": null,
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=bcbeat1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater",
+    "checked": "2026-10-17",
+    "marathi_name": "निळ्या गालाचा वेडा राघू",
+    "ebird_species_url": "https://ebird.org/species/bcbeat1",
+    "facts_sources": [
+      "https://ebird.org/species/bcbeat1",
+      "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater",
+      "https://stateofindiasbirds.in/species/bcbeat1/"
+    ],
+    "additional_photos": [
+      {
+        "title": "Blue-cheeked bee-eater, Merops persicus, Chobe National Park, Botswana (32364943881).jpg",
+        "creator": "Derek Keats",
+        "licence": "CC BY 2.0",
+        "alt": "Blue-cheeked Bee-eater photographed in Botswana, showing the blue face markings and long bill.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue-cheeked_bee-eater,_Merops_persicus,_Chobe_National_Park,_Botswana_(32364943881).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Kakolu Scrub Forest (40360740873).jpg",
+        "creator": "Mike Prince",
+        "licence": "CC BY 2.0",
+        "alt": "Open scrub at Kakolu in Karnataka, illustrating an open scrub landscape rather than a confirmed Blue-cheeked Bee-eater sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Blue-cheeked Bee-eater (निळ्या गालाचा वेडा राघू)",
+      "mr": "निळ्या गालाचा वेडा राघू (Blue-cheeked Bee-eater)"
+    }
+  },
+  {
+    "month": "June",
+    "bird": "Alexandrine Parakeet",
+    "scientific_name": "Psittacula eupatria",
+    "photo": {
+      "title": "Fierce Beak of a Alexandrine parakeet..JPG",
+      "creator": "Rudolph.A.furtado",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Fierce_Beak_of_a_Alexandrine_parakeet..JPG",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Alexandrine parakeet sound.wav",
+      "creator": "Ganesh Mohan T",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Alexandrine_parakeet_sound.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=alepar2&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Alexandrine_parakeet",
+    "checked": "2026-10-17",
+    "marathi_name": "पहाडी पोपट",
+    "ebird_species_url": "https://ebird.org/species/alepar2",
+    "facts_sources": [
+      "https://ebird.org/species/alepar2",
+      "https://en.wikipedia.org/wiki/Alexandrine_parakeet",
+      "https://stateofindiasbirds.in/species/wdl-alepar2"
+    ],
+    "additional_photos": [
+      {
+        "title": "A Male with another - Alexandrine Parakeets (51005695606).jpg",
+        "creator": "Hari K Patibanda",
+        "licence": "CC BY 2.0",
+        "alt": "Alexandrine Parakeets photographed in India, showing their larger bodies and red bills.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:A_Male_with_another_-_Alexandrine_Parakeets_(51005695606).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Banyan Tree 04.jpg",
+        "creator": "Herdaisymione",
+        "licence": "CC0 1.0",
+        "alt": "A mature banyan tree, illustrating the large trees that provide cover and feeding opportunities for parakeets.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Banyan_Tree_04.jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Alexandrine Parakeet (पहाडी पोपट)",
+      "mr": "पहाडी पोपट (Alexandrine Parakeet)"
+    }
+  },
+  {
+    "month": "June",
+    "bird": "Ashy Prinia",
+    "scientific_name": "Prinia socialis",
+    "marathi_name": "राखी वटवट्या",
+    "photo": {
+      "title": "Ashy prinia kottayam.jpg",
+      "creator": "Tonynirappathu, colour adjustment by MPF",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Ashy_prinia_kottayam.jpg",
+      "changes": "Resized for the webpage without further cropping.",
+      "file": "bird.jpg",
+      "alt": "Ashy Prinia perched among green grasses in Kottayam, Kerala."
+    },
+    "audio": {
+      "title": "AshyPrinia.ogg",
+      "creator": "L. Shyamal",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:AshyPrinia.ogg",
+      "changes": "Full recording converted to MP3 without trimming. Audio remains CC BY-SA 3.0.",
+      "file": "bird-call.mp3"
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=ashpri1&mediaType=audio",
+    "ebird_species_url": "https://ebird.org/species/ashpri1",
+    "checked": "2026-10-21",
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Ashy_prinia",
+      "https://mr.wikisource.org/wiki/पान:E-Book_100_Common_Birds_in_Maharashtra_Marathi_(2).pdf/97"
+    ],
+    "additional_photos": [
+      {
+        "title": "Prinia socialis -Pune, Maharashtra, India-8.jpg",
+        "creator": "Yogendra Joshi",
+        "licence": "CC BY 2.0",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Prinia_socialis_-Pune,_Maharashtra,_India-8.jpg",
+        "changes": "Wikimedia version with border and watermark removed. Recompressed without further cropping.",
+        "file": "bird-detail.jpg",
+        "section": "description-title",
+        "alt": "Ashy Prinia in Pune, showing its grey head, warm underparts and graduated tail."
+      },
+      {
+        "title": "Kakolu Scrub Forest (40360740873).jpg",
+        "creator": "Mike Prince",
+        "licence": "CC BY 2.0",
+        "alt": "Open scrub at Kakolu in Karnataka.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Ashy Prinia (राखी वटवट्या)",
+      "mr": "राखी वटवट्या (Ashy Prinia)"
+    }
+  },
+  {
+    "month": "July",
+    "bird": "Black-backed Dwarf Kingfisher",
+    "scientific_name": "Ceyx erithaca",
+    "photo": {
+      "title": "007 Black-backed dwarf kingfisher.jpg",
+      "creator": "Drsssuresh1961",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:007_Black-backed_dwarf_kingfisher.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": null,
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=bkbkin1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Black-backed_dwarf_kingfisher",
+    "checked": "2026-10-17",
+    "marathi_name": "तिबोटी खंड्या",
+    "ebird_species_url": "https://ebird.org/species/bkbkin1",
+    "facts_sources": [
+      "https://www.birdsofindia.org/Ceyx-erithaca",
+      "https://en.wikipedia.org/wiki/Black-backed_dwarf_kingfisher",
+      "https://ebird.org/species/bkbkin1"
+    ],
+    "additional_photos": [
+      {
+        "title": "008 Black-backed dwarf kingfisher.jpg",
+        "creator": "Drsssuresh1961",
+        "licence": "CC0 1.0",
+        "alt": "Black-backed Dwarf Kingfisher perched in shaded vegetation.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:008_Black-backed_dwarf_kingfisher.jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Evergreen Forest Kerala India.jpg",
+        "creator": "Davidvraju",
+        "licence": "CC0 1.0",
+        "alt": "Evergreen forest in Kerala, illustrating the shaded forest habitat of the Black-backed Dwarf Kingfisher.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Evergreen_Forest_Kerala_India.jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Black-backed Dwarf Kingfisher (तिबोटी खंड्या)",
+      "mr": "तिबोटी खंड्या (Black-backed Dwarf Kingfisher)"
+    }
+  },
+  {
+    "month": "August",
+    "bird": "Vernal Hanging-Parrot",
+    "scientific_name": "Loriculus vernalis",
+    "photo": {
+      "title": "Vernal Hanging Parrot-3.jpg",
+      "creator": "Sandeep Gangadharan",
+      "licence": "CC BY 2.0",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Vernal_Hanging_Parrot-3.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Vernal hanging parrot flight call recorded in February 2010 at Kulgi, Karnataka.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Vernal_hanging_parrot_flight_call_recorded_in_February_2010_at_Kulgi%2C_Karnataka.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=vehpar1&mediaType=audio",
+    "facts_source": "https://parrots.org/encyclopedia/vernal-hanging-parrot/",
+    "checked": "2026-10-17",
+    "marathi_name": "पिचू पोपट",
+    "ebird_species_url": "https://ebird.org/species/vehpar1",
+    "facts_sources": [
+      "https://parrots.org/encyclopedia/vernal-hanging-parrot/",
+      "https://en.wikipedia.org/wiki/Vernal_hanging_parrot",
+      "https://www.npcil.nic.in/WriteReadData/CMS/201712250515294735715Birds_of_Kaiga.pdf"
+    ],
+    "additional_photos": [
+      {
+        "title": "The Pesky Parrot - Vernal Hanging Parrot (9654098096).jpg",
+        "creator": "Vipin Baliga",
+        "licence": "CC BY 2.0",
+        "alt": "Vernal Hanging-Parrot feeding among foliage and fruit.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Pesky_Parrot_-_Vernal_Hanging_Parrot_(9654098096).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "(The) Western Ghats Lake Forest Nature Scene, India December 2013.jpg",
+        "creator": "Navaneeth KN",
+        "licence": "CC BY 2.0",
+        "alt": "Wooded landscape in the Western Ghats, illustrating forest cover rather than a confirmed hanging-parrot sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:(The)_Western_Ghats_Lake_Forest_Nature_Scene,_India_December_2013.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Vernal Hanging-Parrot (पिचू पोपट)",
+      "mr": "पिचू पोपट (Vernal Hanging-Parrot)"
+    }
+  },
+  {
+    "month": "September",
+    "bird": "Common Kestrel",
+    "scientific_name": "Falco tinnunculus",
+    "photo": {
+      "title": "Common Kestrel (Falco tinnunculus)1.jpg",
+      "creator": "Mustang Joe",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_Kestrel_%28Falco_tinnunculus%291.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Falco tinnunculus - Common Kestrel XC468403.mp3",
+      "creator": "Marie-Lan Taÿ Pamart",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Falco_tinnunculus_-_Common_Kestrel_XC468403.mp3",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=eurkes&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Common_kestrel",
+    "checked": "2026-10-17",
+    "marathi_name": "देव ससाणा",
+    "ebird_species_url": "https://ebird.org/species/eurkes",
+    "facts_sources": [
+      "https://www.birding.in/birds/Falconiformes/Falconidae/common_kestrel.htm",
+      "https://en.wikipedia.org/wiki/Common_kestrel",
+      "https://ebird.org/species/eurkes"
+    ],
+    "additional_photos": [
+      {
+        "title": "Common kestrel hovering.jpg",
+        "creator": "Alexis LOURS",
+        "licence": "CC BY 2.0",
+        "alt": "Common Kestrel hovering, showing its pointed wings and spread tail.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Common_kestrel_hovering.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Kaas Plateau India late October 2012.jpg",
+        "creator": "Travelling Slacker",
+        "licence": "CC BY 2.0",
+        "alt": "Open rocky grassland on the Kaas Plateau, illustrating an open hunting landscape rather than a confirmed kestrel sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kaas_Plateau_India_late_October_2012.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Common Kestrel (देव ससाणा)",
+      "mr": "देव ससाणा (Common Kestrel)"
+    }
+  },
+  {
+    "month": "October",
+    "bird": "Black-throated Tit",
+    "scientific_name": "Aegithalos concinnus",
+    "photo": {
+      "title": "Black-throated Tit.jpg",
+      "creator": "Johnny Wee (Natureatyourbackyard)",
+      "licence": "CC BY 2.0",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Black-throated_Tit.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": null,
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=blttit2&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Black-throated_bushtit",
+    "checked": "2026-10-17",
+    "marathi_name": "काळ्या गळ्याचा टीट",
+    "ebird_species_url": "https://ebird.org/species/blttit2",
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Black-throated_bushtit",
+      "https://stateofindiasbirds.in/species/blttit2/",
+      "https://ebird.org/species/blttit2"
+    ],
+    "additional_photos": [
+      {
+        "title": "Black-throated Tit (34709566196).jpg",
+        "creator": "lonelyshrimp",
+        "licence": "CC0 1.0",
+        "alt": "Black-throated Tit photographed in Myanmar, showing its patterned head and dark throat patch.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Black-throated_Tit_(34709566196).jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Cedrus deodara Manali 5.jpg",
+        "creator": "B Balaji, colour adjustment by MPF",
+        "licence": "CC BY 2.0",
+        "alt": "Deodar woodland near Manali in Himachal Pradesh, illustrating a Himalayan wooded landscape rather than a confirmed tit sighting.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cedrus_deodara_Manali_5.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Black-throated Tit (काळ्या गळ्याचा टीट)",
+      "mr": "काळ्या गळ्याचा टीट (Black-throated Tit)"
+    }
+  },
+  {
+    "month": "November",
+    "bird": "Indian Paradise-Flycatcher",
+    "scientific_name": "Terpsiphone paradisi",
+    "photo": {
+      "title": "Indian paradise flycatcher feeding her newly born babies.jpg",
+      "creator": "Princepauljoy",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_feeding_her_newly_born_babies.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Indian paradise flycatcher call recorded in February 2006 at Jamboti, Karnataka.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_call_recorded_in_February_2006_at_Jamboti%2C_Karnataka.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=aspfly1&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Indian_paradise_flycatcher",
+    "checked": "2026-10-17",
+    "marathi_name": "स्वर्गीय नर्तक",
+    "ebird_species_url": "https://ebird.org/species/aspfly1",
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Indian_paradise_flycatcher",
+      "https://stateofindiasbirds.in/species/aspfly1/",
+      "https://ebird.org/species/aspfly1"
+    ],
+    "additional_photos": [
+      {
+        "title": "Indian Paradise Flycatcher (25299398417).jpg",
+        "creator": "Koshy Koshy",
+        "licence": "CC BY 2.0",
+        "alt": "Indian Paradise-Flycatcher photographed at Thattekkad in Kerala.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Paradise_Flycatcher_(25299398417).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Evergreen Forest Kerala India.jpg",
+        "creator": "Davidvraju",
+        "licence": "CC0 1.0",
+        "alt": "Forest in Kerala, illustrating leafy woodland cover used by forest birds rather than a confirmed nesting location.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Evergreen_Forest_Kerala_India.jpg",
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Indian Paradise-Flycatcher (स्वर्गीय नर्तक)",
+      "mr": "स्वर्गीय नर्तक (Indian Paradise-Flycatcher)"
+    }
+  },
+  {
+    "month": "December",
+    "bird": "Asian Green Bee-eater",
+    "scientific_name": "Merops orientalis",
+    "photo": {
+      "title": "Love birds image.jpg",
+      "creator": "Gopinath KARUMALAI; image adjustments by MPF",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Love_birds_image.jpg",
+      "changes": "Wikimedia thumbnail used; displayed at responsive size. No additional crop."
+    },
+    "audio": {
+      "title": "Asian green bee-eater call recorded in August 2014 at Sangli.wav",
+      "creator": "Sharad Apte (Sharadapte)",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Asian_green_bee-eater_call_recorded_in_August_2014_at_Sangli.wav",
+      "changes": "MP3 format; complete recording, untrimmed. Audio remains CC BY-SA 4.0."
+    },
+    "online_audio_catalogue": "https://media.ebird.org/catalog?taxonCode=grnbee3&mediaType=audio",
+    "facts_source": "https://en.wikipedia.org/wiki/Asian_green_bee-eater",
+    "checked": "2026-10-17",
+    "marathi_name": "वेडा राघू",
+    "ebird_species_url": "https://ebird.org/species/grnbee3",
+    "facts_sources": [
+      "https://en.wikipedia.org/wiki/Asian_green_bee-eater",
+      "https://ebird.org/species/grnbee3",
+      "https://neeriathome.neeri.res.in/biodiversity/GreenBeeEater.php"
+    ],
+    "additional_photos": [
+      {
+        "title": "Green Bee Eater (সুই চোরা). (cropped).jpg",
+        "creator": "Rakib Hasan Sumon, crop by Kersti Nebelsiek",
+        "licence": "CC BY 2.0",
+        "alt": "Asian Green Bee-eater in a closer view, showing its eye stripe and green plumage.",
+        "section": "description-title",
+        "file": "bird-detail.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Green_Bee_Eater_(সুই_চোরা)._(cropped).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      },
+      {
+        "title": "Kakolu Scrub Forest (40360740873).jpg",
+        "creator": "Mike Prince",
+        "licence": "CC BY 2.0",
+        "alt": "Open scrub at Kakolu in Karnataka, illustrating the scrubby habitat used by Asian Green Bee-eaters.",
+        "section": "habitat-title",
+        "file": "habitat.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Kakolu_Scrub_Forest_(40360740873).jpg",
+        "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Wikimedia image resized for the webpage without further cropping."
+      }
+    ],
+    "languages": {
+      "en": "index.html",
+      "mr": "index-mr.html"
+    },
+    "display_names": {
+      "en": "Asian Green Bee-eater (वेडा राघू)",
+      "mr": "वेडा राघू (Asian Green Bee-eater)"
+    }
+  }
+]

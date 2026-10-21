@@ -44,5 +44,13 @@
       "licence_url": "https://creativecommons.org/licenses/by/2.0/",
       "changes": "Wikimedia image resized for the webpage without further cropping."
     }
-  ]
+  ],
+  "languages": {
+    "en": "index.html",
+    "mr": "index-mr.html"
+  },
+  "display_names": {
+    "en": "Black-throated Tit (काळ्या गळ्याचा टीट)",
+    "mr": "काळ्या गळ्याचा टीट (Black-throated Tit)"
+  }
 }
